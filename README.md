@@ -17,7 +17,7 @@ I turn ambiguous, high-stakes programs into repeatable systems. 12+ years in ope
 
 ## Stack
 
-`Python` `FastAPI` `Flask` `MongoDB` `Redis` `SQL` `R` `MATLAB`
+`Python` `FastAPI` `Flask` `MongoDB` `Redis` `SQL` `R` `GitHub` `Terminal/Shell` 
 
 ## Let's connect
 
