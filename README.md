@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Samir 👋
 
-<!--
-**wildAstroboy/wildAstroboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn ambiguous, high-stakes programs into repeatable systems. 12+ years in operations at Apple, a physics background, and a habit of building tools that make messy data legible.
 
-Here are some ideas to get you started:
+- 🛠️ Currently exploring backend/API engineering — FastAPI, MongoDB, Redis
+- 🌌 Building space-weather and astronomy tools for fun (see pinned repos)
+- 🎓 B.S. Physics, University of Utah
+- ✈️ Private Pilot License
+- 🌵 Community Director at Element 11, Inc.
+- 📍 Salt Lake City, UT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+**[stellarObjectsAPI](#)** — A space/astronomy REST API built with FastAPI, MongoDB, and Redis. Ships OAuth2/JWT auth, pagination, and a validated Pydantic schema for stellar object data.
+
+**[Aurora Tracker](#)** — Pulls real-time space-weather data from NOAA SWPC and renders an interactive map of current aurora visibility, centered on your location. Built with Python, Plotly, pandas, and scipy.
+
+## Stack
+
+`Python` `FastAPI` `Flask` `MongoDB` `Redis` `SQL` `R` `MATLAB`
+
+## Let's connect
+
+📫 samir.suthar90@gmail.com
