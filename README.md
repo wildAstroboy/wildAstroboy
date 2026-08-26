@@ -11,9 +11,9 @@ I turn ambiguous, high-stakes programs into repeatable systems. 12+ years in ope
 
 ## What I'm working on
 
-**[stellarObjectsAPI](#)** — A space/astronomy REST API built with FastAPI, MongoDB, and Redis. Ships OAuth2/JWT auth, pagination, and a validated Pydantic schema for stellar object data.
+**[stellarObjectsAPI](https://github.com/wildAstroboy/stellarObjectsAPI)** — A space/astronomy REST API built with FastAPI, MongoDB, and Redis. Ships OAuth2/JWT auth, pagination, and a validated Pydantic schema for stellar object data.
 
-**[Aurora Tracker](#)** — Pulls real-time space-weather data from NOAA SWPC and renders an interactive map of current aurora visibility, centered on your location. Built with Python, Plotly, pandas, and scipy.
+**[Aurora Tracker](https://github.com/wildAstroboy/auroraForecaster)** — Pulls real-time space-weather data from NOAA SWPC and renders an interactive map of current aurora visibility, centered on your location. Built with Python, Plotly, pandas, and scipy.
 
 ## Stack
 
