@@ -1,6 +1,6 @@
 # Hi, I'm Samir 👋
 
-I turn ambiguous, high-stakes programs into repeatable systems. 12+ years in operations at Apple, a physics background, and a habit of building tools that make messy data legible.
+I turn ambiguous, high-stakes programs into repeatable systems, from event logistics to technical troubleshooting, so teams deliver complex work reliably, at scale, without me in the room. 12+ years in operations at Apple, a physics background, and a habit of building tools that make messy data legible.
 
 - 🛠️ Currently exploring backend/API engineering — FastAPI, MongoDB, Redis
 - 🌌 Building space-weather and astronomy tools for fun (see pinned repos)
