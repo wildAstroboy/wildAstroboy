@@ -1,24 +1,24 @@
-# Hi, I'm Samir 👋
-
+# Hi, I'm Samir
+ 
 I turn ambiguous, high-stakes programs into repeatable systems, from event logistics to technical troubleshooting, so teams deliver complex work reliably, at scale, without me in the room. 12+ years in operations at Apple, a physics background, and a habit of building tools that make messy data legible.
-
-- 🛠️ Currently exploring backend/API engineering — FastAPI, MongoDB, Redis
-- 🌌 Building space-weather and astronomy tools for fun (see pinned repos)
-- 🎓 B.S. Physics, University of Utah
-- ✈️ Private Pilot License
-- 🌵 Community Director at Element 11, Inc.
-- 📍 Salt Lake City, UT
-
+ 
+- Currently exploring backend/API engineering: FastAPI, MongoDB, Redis
+- Building space-weather and astronomy tools for fun (see pinned repos)
+- B.S. Physics, University of Utah
+- Private Pilot License
+- Community Director at Element 11, Inc.
+- Salt Lake City, UT
 ## What I'm working on
-
-**[Stellar Objects API](https://github.com/wildAstroboy/stellarObjectsAPI)** — A space/astronomy REST API built with FastAPI, MongoDB, Openrouter LLM, and Redis. Ships OAuth2/JWT auth, pagination, and a validated Pydantic schema for stellar object data.
-
-**[Aurora Forecaster](https://github.com/wildAstroboy/auroraForecaster)** — Pulls real-time space-weather data from NOAA SWPC and renders an interactive map of current aurora visibility, centered on your location. Renders Kp Index and X-Ray Flux chart. Built with Python, Plotly, pandas, scipy, and geocoder.
-
+ 
+**[Stellar Objects API](https://github.com/wildAstroboy/stellarObjectsAPI)** — A space/astronomy REST API built with FastAPI, MongoDB, Redis, and an OpenRouter LLM integration. Ships OAuth2/JWT auth, pagination, and a validated Pydantic schema for stellar object data.
+ 
+**[Aurora Forecaster](https://github.com/wildAstroboy/auroraForecaster)** — Pulls real-time space-weather data from NOAA SWPC and renders an interactive map of current aurora visibility, centered on your location, alongside Kp Index and X-Ray Flux charts. Built with Python, Plotly, pandas, scipy, and geocoder.
+ 
 ## Stack
-
-`Python` `FastAPI` `Flask` `MongoDB` `Redis` `SQL` `R` `GitHub` `Terminal/Shell` 
-
+ 
+`Python` `FastAPI` `Flask` `MongoDB` `Redis` `SQL` `R` `Plotly` `pandas` `GitHub` `Terminal/Shell`
+ 
 ## Let's connect
-
-📫 samir.suthar90@gmail.com
+ 
+Email: samir.suthar90@gmail.com
+ 
